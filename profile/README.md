@@ -9,8 +9,8 @@ We are a high school duo of cyber security students who are passionate in softwa
 
 ### Our projects (so far...)
 
-- CTF Portal - Web portal for hosting cyber security competitions (CTF)
-- Dashboard - Web dashboard to registrer and order food for TechDays and HackDays participants
+- CTF Portal - Web portal for hosting cyber security competitions (CTF) - will be soon COMPLETELY rewritten
+- Dashboard - Web dashboard to registrer and order food for TechDays and HackDays participants - frontend unfinished due to not participating in these camps anymore
 
 ---
 
